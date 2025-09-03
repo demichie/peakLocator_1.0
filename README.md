@@ -5,7 +5,6 @@ This is a web application built with Python and Streamlit to analyze and compare
 This project is a modern migration of an original Flask-based application, now featuring an interactive, user-friendly interface powered by Plotly and Streamlit.
 
 ![Application Screenshot](screenshot.png)
-*(Note: You can create a `screenshot.png` to display a preview of the application here.)*
 
 ## Features
 
@@ -33,8 +32,9 @@ Follow these steps to set up the project environment and get the application run
 First, clone this repository to your local machine or download the source files.
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone <https://github.com/demichie/peakFinder>
+cd <peakFinder>
+```
 
 **2. Create the Conda Environment**
 
@@ -42,6 +42,7 @@ Use the provided `environment.yml` file to create a new Conda environment with a
 
 ```bash
 conda env create -f environment.yml
+```
 
 This process may take a few minutes as Conda resolves and installs all the packages.
 
@@ -51,6 +52,7 @@ Once the environment is created, you must activate it. All subsequent commands s
 
 ```bash
 conda activate peakfinder-env
+```
 
 Your terminal prompt should now be prefixed with `(peakfinder-env)`.
 
