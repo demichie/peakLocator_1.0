@@ -3,11 +3,18 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  # Pacchetti che vuoi che Conda gestisca
+  # È buona pratica lasciare che Conda gestisca Python e i pacchetti con dipendenze complesse non-Python
+  # come NumPy e SciPy, che si legano a librerie di sistema (es. MKL, OpenBLAS).
   - python=3.9
   - pip
   - numpy
   - scipy
-  - matplotlib
-  - bokeh
-  - plotly
-  - streamlit
+
+  # Pacchetti che vuoi che Pip gestisca
+  - pip:
+    - streamlit
+    - matplotlib
+    - bokeh
+    - plotly
+
