@@ -33,7 +33,7 @@ First, clone this repository to your local machine or download the source files.
 
 ```bash
 git clone <https://github.com/demichie/peakFinder>
-cd <peakFinder>
+cd peakFinder
 ```
 
 **2. Create the Conda Environment**
@@ -61,7 +61,7 @@ Your terminal prompt should now be prefixed with `(peakfinder-env)`.
 With the Conda environment activated, you can launch the Streamlit application with a single command:
 
 ```bash
-streamlit run app_streamlit_final.py
+streamlit run app_streamlit.py
 ```
 
 Streamlit will start a local web server, and the application should automatically open in your default web browser. If it doesn't, the terminal will provide a local URL (usually `http://localhost:8501`) that you can navigate to.
