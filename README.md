@@ -32,7 +32,7 @@ Follow these steps to set up the project environment and get the application run
 First, clone this repository to your local machine or download the source files.
 
 ```bash
-git clone <https://github.com/demichie/peakFinder>
+git clone https://github.com/demichie/peakFinder
 cd peakFinder
 ```
 
