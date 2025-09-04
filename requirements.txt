@@ -1,0 +1,9 @@
+# For use with pip in a standard Python virtual environment.
+# It's good practice to pin versions (e.g., streamlit==1.28.0) for production,
+# but this unpinned list is more flexible for general development.
+streamlit
+numpy
+scipy
+matplotlib
+bokeh
+plotly
