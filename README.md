@@ -6,7 +6,7 @@ This project is a modern migration of an original Flask-based application, now f
 
 The iriginal tool is described in:
 
-Granieri, Domenico, Mattia de’Michieli Vitturi, and Marina Bisson. "PeakLocator 1.0, a web tool to compare extreme value areas among maps." Annals of Geophysics 61, no. 5 (2018).
+*Granieri, Domenico, Mattia de’Michieli Vitturi, and Marina Bisson. "PeakLocator 1.0, a web tool to compare extreme value areas among maps." Annals of Geophysics 61, no. 5 (2018).*
 
 
 
