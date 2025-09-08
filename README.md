@@ -1,5 +1,8 @@
 # PeakLocator Application
 
+[![DOI](https://zenodo.org/badge/1049960685.svg)](https://doi.org/10.5281/zenodo.17052902)
+
+
 This is a web application built with Python and Streamlit to analyze and compare spatial grid files (e.g., Surfer `.grd` format). The application allows users to upload multiple grid files, define parameters, and compute a resulting grid that identifies common peak or trough regions across the datasets.
 
 This project is a modern migration of an original Flask-based application, now featuring an interactive, user-friendly interface powered by Plotly and Streamlit.
