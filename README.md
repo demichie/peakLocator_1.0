@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/1049960685.svg)](https://doi.org/10.5281/zenodo.17052902)
 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://peaklocator..streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://peaklocator.streamlit.app)
 
 
 This is a web application built with Python and Streamlit to analyze and compare spatial grid files (e.g., Surfer `.grd` format). The application allows users to upload multiple grid files, define parameters, and compute a resulting grid that identifies common peak or trough regions across the datasets.
