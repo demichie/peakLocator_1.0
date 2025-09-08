@@ -1,4 +1,4 @@
-# Peak Finder Application
+# PeakLocator Application
 
 This is a web application built with Python and Streamlit to analyze and compare spatial grid files (e.g., Surfer `.grd` format). The application allows users to upload multiple grid files, define parameters, and compute a resulting grid that identifies common peak or trough regions across the datasets.
 
@@ -32,13 +32,13 @@ Follow these steps to set up the project environment and get the application run
 First, clone this repository to your local machine or download the source files.
 
 ```bash
-git clone https://github.com/demichie/peakFinder
-cd peakFinder
+git clone https://github.com/demichie/peakLocator_1.0
+cd peakLocator_1.0
 ```
 
 **2. Create the Conda Environment**
 
-Use the provided `environment.yml` file to create a new Conda environment with all the necessary dependencies. This command will create an environment named `peakfinder-env`.
+Use the provided `environment.yml` file to create a new Conda environment with all the necessary dependencies. This command will create an environment named `peakLocator-env`.
 
 ```bash
 conda env create -f environment.yml
@@ -51,10 +51,10 @@ This process may take a few minutes as Conda resolves and installs all the packa
 Once the environment is created, you must activate it. All subsequent commands should be run inside this environment.
 
 ```bash
-conda activate peakfinder-env
+conda activate peakLocator-env
 ```
 
-Your terminal prompt should now be prefixed with `(peakfinder-env)`.
+Your terminal prompt should now be prefixed with `(peakLocator-env)`.
 
 ## Running the Application
 
