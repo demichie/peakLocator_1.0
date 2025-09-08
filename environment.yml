@@ -1,4 +1,4 @@
-name: peakfinder-env
+name: peakLocator-env
 channels:
   - conda-forge
   - defaults
