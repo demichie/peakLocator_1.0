@@ -98,4 +98,9 @@ Streamlit will start a local web server, and the application should automaticall
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+## Authors
+
+This tool has been developed by M. de' Michieli Vitturi and D. Granieri
+
+
 
