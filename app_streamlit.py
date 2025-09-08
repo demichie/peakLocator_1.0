@@ -4,8 +4,8 @@ import io
 from compute import compute, plot_single_grd
 
 # --- Page Configuration ---
-st.set_page_config(layout="wide", page_title="Peak Finder Application")
-st.title("Peak Finder Application")
+st.set_page_config(layout="wide", page_title="PeakLocator Application")
+st.title("PeakLocator Application")
 
 # --- Constants & State Initialization ---
 MIN_FILES, MAX_FILES = 2, 10
