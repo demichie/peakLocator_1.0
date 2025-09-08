@@ -4,7 +4,7 @@ This is a web application built with Python and Streamlit to analyze and compare
 
 This project is a modern migration of an original Flask-based application, now featuring an interactive, user-friendly interface powered by Plotly and Streamlit.
 
-The iriginal tool is described in:
+The original tool is described in:
 
 *Granieri, Domenico, Mattia de’Michieli Vitturi, and Marina Bisson. "PeakLocator 1.0, a web tool to compare extreme value areas among maps." Annals of Geophysics 61, no. 5 (2018).*
 
